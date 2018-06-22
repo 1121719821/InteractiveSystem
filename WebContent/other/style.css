@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+
+#content {
+	border: 1px solid gray;
+	width: 100%;
+	overflow: auto;
+}
+
+#personList {
+	border: 1px solid gray;
+	width: 100%;
+	overflow: auto;
+}
+
+#onlineUsers {
+	border: 1px solid gray;
+	width: 100%;
+	overflow: auto;
+}
+
+#sendMessage:ACTIVE {
+	background: yellow;
+}
