@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+deploy:
+  type: git
+  repo: git@github.com:1121719821/1121719821.github.io.git
+  branch: master
